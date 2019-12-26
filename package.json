@@ -1,0 +1,23 @@
+{
+  "name": "ghm",
+  "version": "1.0.0",
+  "description": "我的网站",
+  "main": "index.js",
+  "dependencies": {
+    "swiper": "^5.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alifetimelove/MyWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alifetimelove/MyWeb/issues"
+  },
+  "homepage": "https://github.com/Alifetimelove/MyWeb#readme"
+}
